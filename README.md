@@ -6,9 +6,9 @@ https://www.ole.com.ar/mundial-rusia-2018/mundial-hinchas-alentamos-seleccion-el
 Isso não passa de uma brincadeira, não tem nada sério nisso.
 
 ## Instalação
-1- Clone o projeto
-2- npm install
-3- node index
+1. Clone o projeto
+2. npm install
+3. node index
 
 Talvez você irá precisar configurar os proxy. E caso encontre alguma api, ou uma lista boa, só dar PR.
 
