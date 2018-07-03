@@ -1,5 +1,5 @@
 # Bot Enquete do Olé
-Ontem dia 03/07/2018 o Jornal Olé fez uma enquete perguntando qual seleção os argentinos iriam torcer agora. Os brasileiros pela brasileiragem selecionaram o Brasilzão em massa. Mas como uma graça a mais decidir criar um bot integrado com `proxy` para ficar causando centenas de votos.
+Ontem dia 02/07/2018 o Jornal Olé fez uma enquete perguntando qual seleção os argentinos iriam torcer agora. Os brasileiros pela brasileiragem selecionaram o Brasilzão em massa. Mas como uma graça a mais decidir criar um bot integrado com `proxy` para ficar causando centenas de votos.
 
 https://www.ole.com.ar/mundial-rusia-2018/mundial-hinchas-alentamos-seleccion-eliminada-brasil-uruguay-colombia-belgica-francia_0_2043395737.html
 
